@@ -47,14 +47,23 @@ DefaultContentLanguage           = "en"                    # Default language fo
         url   = "https://www.linkedin.com/in/vidhu-shikhar-joshi/"
         icon  = "linkedin-in" # icon name without the 'fa-'
         icon_pack = "fab"
+    
+    [[params.social]]
+        url   = "https://www.instagram.com/vidhu_joshi/"
+        icon  = "instagram" # icon name without the 'fa-'
+        icon_pack = "fab"
+    [[params.social]]
+        url   = "https://twitter.com/VidhuJoshi31"
+        icon  = "twitter" # icon name without the 'fa-'
+        icon_pack = "fab"
+    [[params.social]]
+        url   = "https://www.youtube.com/user/VidhuShhikhar/featured"
+        icon  = "youtube" # icon name without the 'fa-'
+        icon_pack = "fab"
     [[params.social]]
         url = "mailto: vidhujoshi31@gmail.com"  # For a direct email link, use "mailto:test@example.org".
         icon = "paper-plane" # icon name without the 'fa-'
         icon_pack = "fas"
-    [[params.social]]
-        url   = "https://twitter.com/"
-        icon  = "twitter" # icon name without the 'fa-'
-        icon_pack = "fab"
     
 
 
@@ -67,7 +76,9 @@ DefaultContentLanguage           = "en"                    # Default language fo
 #     name    = "Blog"
 #     url     = "/blog/"
 #     weight  = 1
-
+# [[menu.main]]
+#     name = "Experience"
+#     url = "/experience/"
 # We only use tag as a taxonomies
 # You can add more by yourself
 [taxonomies]
