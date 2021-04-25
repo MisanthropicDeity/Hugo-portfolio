@@ -1,7 +1,7 @@
 ---
 title: "About"
 image: "profile.jpg"
-weight: 8
+weight: 10
 ---
 ***Hola Amigos***
 

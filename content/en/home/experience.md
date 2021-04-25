@@ -1,7 +1,7 @@
 ---
 title: "Experience"
 draft: true
-weight: 0
+weight: 20
 ---
 <h3 align = "justify"> <strong>Backend Developer</strong></h3>
 
