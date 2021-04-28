@@ -1,6 +1,5 @@
 ---
 title: "Experience"
-draft: true
 weight: 20
 ---
 <h3 align = "justify"> <strong>Backend Developer</strong></h3>
@@ -9,7 +8,6 @@ weight: 20
 Feb'21 - Apr'21
 
 <h5 align="left"><b> Roles and Responsibilities</b></h5>
-
 
 <ul align="justify">
 <li>Developed backend API's for 2 seperate application using Django Rest Framework</li>
@@ -22,16 +20,12 @@ Feb'21 - Apr'21
 
 <br>
 
-
-
 <h3 align = "justify"> <strong>Intern (software & solutions) R&D</strong></h3>
 
 <p align ="left" > <b>@Genus Power</b><br> 
 Dec'20  - Jan'21
 
-
 <h5 align="left"><b> Roles and Responsibilities</b></h5>
-
 
 <ul align="justify">
 <li> Worked on Smart meter survey solution using bluetooth.</li>

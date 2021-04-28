@@ -1,4 +1,4 @@
-baseURL                          = "https://porfolio-1dc9e.web.app/"    # Your domain name. Must end with "/"
+baseURL                          = "https://vidhu.codes/"    # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments

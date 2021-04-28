@@ -2,66 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Introduction</title>
-    <link>https://porfolio-1dc9e.web.app/tags/</link>
+    <link>https://vidhu.codes/tags/</link>
     <description>Recent content in Tags on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 May 2019 20:18:53 -0500</lastBuildDate>
-    
-	<atom:link href="https://porfolio-1dc9e.web.app/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 25 Apr 2021 20:18:53 -0500</lastBuildDate><atom:link href="https://vidhu.codes/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
-      <link>https://porfolio-1dc9e.web.app/tags/blog/</link>
-      <pubDate>Thu, 30 May 2019 20:18:53 -0500</pubDate>
+      <link>https://vidhu.codes/tags/blog/</link>
+      <pubDate>Sun, 25 Apr 2021 20:18:53 -0500</pubDate>
       
-      <guid>https://porfolio-1dc9e.web.app/tags/blog/</guid>
+      <guid>https://vidhu.codes/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>code</title>
-      <link>https://porfolio-1dc9e.web.app/tags/code/</link>
-      <pubDate>Thu, 30 May 2019 20:18:53 -0500</pubDate>
+      <link>https://vidhu.codes/tags/code/</link>
+      <pubDate>Sun, 25 Apr 2021 20:18:53 -0500</pubDate>
       
-      <guid>https://porfolio-1dc9e.web.app/tags/code/</guid>
+      <guid>https://vidhu.codes/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ipsum</title>
-      <link>https://porfolio-1dc9e.web.app/tags/ipsum/</link>
+      <link>https://vidhu.codes/tags/ipsum/</link>
       <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
       
-      <guid>https://porfolio-1dc9e.web.app/tags/ipsum/</guid>
+      <guid>https://vidhu.codes/tags/ipsum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>words</title>
-      <link>https://porfolio-1dc9e.web.app/tags/words/</link>
+      <link>https://vidhu.codes/tags/words/</link>
       <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
       
-      <guid>https://porfolio-1dc9e.web.app/tags/words/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>coffee</title>
-      <link>https://porfolio-1dc9e.web.app/tags/coffee/</link>
-      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
-      
-      <guid>https://porfolio-1dc9e.web.app/tags/coffee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>images</title>
-      <link>https://porfolio-1dc9e.web.app/tags/images/</link>
-      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
-      
-      <guid>https://porfolio-1dc9e.web.app/tags/images/</guid>
+      <guid>https://vidhu.codes/tags/words/</guid>
       <description></description>
     </item>
     

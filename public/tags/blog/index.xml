@@ -2,23 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on Introduction</title>
-    <link>https://porfolio-1dc9e.web.app/tags/blog/</link>
+    <link>https://vidhu.codes/tags/blog/</link>
     <description>Recent content in blog on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 May 2019 20:18:53 -0500</lastBuildDate>
-    
-	<atom:link href="https://porfolio-1dc9e.web.app/tags/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 25 Apr 2021 20:18:53 -0500</lastBuildDate><atom:link href="https://vidhu.codes/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>**Long** Form Post!</title>
-      <link>https://porfolio-1dc9e.web.app/blog/long-form-post/</link>
-      <pubDate>Thu, 30 May 2019 20:18:53 -0500</pubDate>
+      <title>**Comming Soooon!!!** stay tuned </title>
+      <link>https://vidhu.codes/blog/first_blog/</link>
+      <pubDate>Sun, 25 Apr 2021 20:18:53 -0500</pubDate>
       
-      <guid>https://porfolio-1dc9e.web.app/blog/long-form-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum.
-Elementum Nisi Quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue.</description>
+      <guid>https://vidhu.codes/blog/first_blog/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum.</description>
     </item>
     
   </channel>

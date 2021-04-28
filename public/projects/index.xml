@@ -2,41 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Introduction</title>
-    <link>https://porfolio-1dc9e.web.app/projects/</link>
+    <link>https://vidhu.codes/projects/</link>
     <description>Recent content in Projects on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="https://porfolio-1dc9e.web.app/projects/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 25 Apr 2021 06:40:36 +0530</lastBuildDate><atom:link href="https://vidhu.codes/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Photography</title>
-      <link>https://porfolio-1dc9e.web.app/projects/photography/</link>
+      <title>NLP Web App</title>
+      <link>https://vidhu.codes/projects/nlp-webapp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://porfolio-1dc9e.web.app/projects/photography/</guid>
-      <description>Sometimes I take pictures This project is about the pictures I take. Sometimes, they are pictures of cats.</description>
+      <guid>https://vidhu.codes/projects/nlp-webapp/</guid>
+      <description>NLP Web Application for COVID-19 This project was done in with respect to ELC activity, in which I won the first prize.</description>
     </item>
     
     <item>
-      <title>Design</title>
-      <link>https://porfolio-1dc9e.web.app/projects/design/</link>
+      <title>Research Paper</title>
+      <link>https://vidhu.codes/projects/research_paper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://porfolio-1dc9e.web.app/projects/design/</guid>
-      <description>This theme was designed by Victoria Drake. Go on, explore! 💪
-If you want to use it for your website, check out the section at the bottom of the main page. 👍</description>
+      <guid>https://vidhu.codes/projects/research_paper/</guid>
+      <description> Research paper on Image Deblurring Auto-encoder </description>
     </item>
     
     <item>
-      <title>Writing</title>
-      <link>https://porfolio-1dc9e.web.app/projects/writing/</link>
+      <title>Flutter app</title>
+      <link>https://vidhu.codes/projects/flutterapp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://porfolio-1dc9e.web.app/projects/writing/</guid>
-      <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong.
-To go viennese cream to go, flavour, so mocha as, carajillo iced et a siphon froth. Aged, eu, cup, brewed aroma kopi-luwak, coffee, id viennese french press brewed grounds acerbic froth. Decaffeinated acerbic, spoon beans seasonal, french press café au lait mazagran roast chicory, pumpkin spice galão as fair trade, dark irish cup ristretto half and half whipped shop.</description>
+      <guid>https://vidhu.codes/projects/flutterapp/</guid>
+      <description>Created a flutter app for Yoga posture detection using posenet.</description>
+    </item>
+    
+    <item>
+      <title>Index</title>
+      <link>https://vidhu.codes/projects/dino_game/</link>
+      <pubDate>Sun, 25 Apr 2021 06:40:36 +0530</pubDate>
+      
+      <guid>https://vidhu.codes/projects/dino_game/</guid>
+      <description></description>
     </item>
     
   </channel>

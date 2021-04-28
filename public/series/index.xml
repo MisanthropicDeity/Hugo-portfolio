@@ -2,13 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Introduction</title>
-    <link>https://porfolio-1dc9e.web.app/series/</link>
+    <link>https://vidhu.codes/series/</link>
     <description>Recent content in Series on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://porfolio-1dc9e.web.app/series/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://vidhu.codes/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
