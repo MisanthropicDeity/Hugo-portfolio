@@ -1,81 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://vidhu.codes/projects/nlp-webapp/</loc>
-  </url>
+  <sitemap>
+    <loc>https://vidhu.codes/hi/sitemap.xml</loc>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://vidhu.codes/projects/research_paper/</loc>
-  </url>
+  <sitemap>
+    <loc>https://vidhu.codes/en/sitemap.xml</loc>
+    
+      <lastmod>2021-04-25T20:18:53-05:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://vidhu.codes/projects/flutterapp/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vidhu.codes/projects/</loc>
-    <lastmod>2021-04-25T06:40:36+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vidhu.codes/blog/</loc>
-    <lastmod>2021-04-25T20:18:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vidhu.codes/blog/first_blog/</loc>
-    <lastmod>2021-04-25T20:18:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vidhu.codes/tags/blog/</loc>
-    <lastmod>2021-04-25T20:18:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vidhu.codes/tags/code/</loc>
-    <lastmod>2021-04-25T20:18:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vidhu.codes/</loc>
-    <lastmod>2021-04-25T20:18:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vidhu.codes/tags/</loc>
-    <lastmod>2021-04-25T20:18:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vidhu.codes/projects/dino_game/</loc>
-    <lastmod>2021-04-25T06:40:36+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vidhu.codes/blog/hugo/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vidhu.codes/tags/ipsum/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vidhu.codes/tags/words/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vidhu.codes/blog/django/</loc>
-    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vidhu.codes/series/</loc>
-  </url>
-  
-</urlset>
+</sitemapindex>

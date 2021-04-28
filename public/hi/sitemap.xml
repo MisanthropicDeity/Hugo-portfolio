@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://vidhu.codes/hi/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vidhu.codes/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://vidhu.codes/hi/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://vidhu.codes/hi/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vidhu.codes/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://vidhu.codes/hi/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://vidhu.codes/hi/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vidhu.codes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hi"
+                href="https://vidhu.codes/hi/"
+                />
+  </url>
+  
+</urlset>

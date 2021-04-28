@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Introduction</title>
+    <title>Vidhu Shikhar Joshi</title>
     <link>https://vidhu.codes/</link>
-    <description>Recent content on Introduction</description>
+    <description>Recent content on Vidhu Shikhar Joshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Apr 2021 20:18:53 -0500</lastBuildDate><atom:link href="https://vidhu.codes/index.xml" rel="self" type="application/rss+xml" />
@@ -26,6 +26,17 @@
     </item>
     
     <item>
+      <title>Dino Game</title>
+      <link>https://vidhu.codes/projects/dino_game/</link>
+      <pubDate>Sun, 25 Apr 2021 06:40:36 +0530</pubDate>
+      
+      <guid>https://vidhu.codes/projects/dino_game/</guid>
+      <description>Developed a small game using Python&amp;rsquo;s Pygame library. It replicates the game that we see over chrome browser.
+This was a small project where I learned how to control I/O, and to optimise the image block to improve user experience.
+It was a single player game and the score is calculated as a function of time the player played the game.</description>
+    </item>
+    
+    <item>
       <title>Flutter app</title>
       <link>https://vidhu.codes/projects/flutterapp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -41,15 +52,6 @@
       
       <guid>https://vidhu.codes/blog/first_blog/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum.</description>
-    </item>
-    
-    <item>
-      <title>Index</title>
-      <link>https://vidhu.codes/projects/dino_game/</link>
-      <pubDate>Sun, 25 Apr 2021 06:40:36 +0530</pubDate>
-      
-      <guid>https://vidhu.codes/projects/dino_game/</guid>
-      <description></description>
     </item>
     
     <item>

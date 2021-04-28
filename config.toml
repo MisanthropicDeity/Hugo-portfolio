@@ -107,7 +107,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         languageName     = "English"
         languageCode     = "en-us"
         contentDir       = "content/en"
-        weight           = 0
+        weight           = 1
         title            = "Vidhu Shikhar Joshi"
         [languages.en.params]
             description  = "Get to know Vidhu Better."   # Max 160 characters show in search results
@@ -116,7 +116,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         languageName     = "हिंदी में देखें"
         languageCode     = "hi"
         contentDir       = "content/hi"
-        weight           = 1
+        weight           = 2
         title            = "विधु शिखर जोशी"
         [languages.hi.params]
             description  = "जानिए कौन है विधु"   # Max 160 characters show in search results
