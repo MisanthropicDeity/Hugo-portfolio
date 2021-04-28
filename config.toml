@@ -11,7 +11,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
     fadeIn                       = true                    # Turn on/off the fade-in effect
     fadeInIndex                  = false                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat                   = "Jan 2, 2006"
-    email                        = "vidhujoshi31@gmail.com"   # E-mail address for contact section
+    email                        = ""   # E-mail address for contact section
     # customCSS                  = ["foo.css"]             # Include custom css files placed under assets/
     # customJS                   = ["foo.js"]              # Include custom JavaScript files placed under assets/
     # plausible                  = true                    # Use Plausible analytics (requires an account at Plausible.io)
@@ -108,9 +108,18 @@ DefaultContentLanguage           = "en"                    # Default language fo
         languageCode     = "en-us"
         contentDir       = "content/en"
         weight           = 0
-        title            = "Introduction"
+        title            = "Vidhu Shikhar Joshi"
         [languages.en.params]
-            description  = "Website Description"   # Max 160 characters show in search results
+            description  = "Get to know Vidhu Better."   # Max 160 characters show in search results
+            # footerText   = ""                      # Text to override default footer text (markdown allowed)
+        [languages.hi]
+        languageName     = "हिंदी में देखें"
+        languageCode     = "hi"
+        contentDir       = "content/hi"
+        weight           = 1
+        title            = "विधु शिखर जोशी"
+        [languages.hi.params]
+            description  = "जानिए कौन है विधु"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
 
   

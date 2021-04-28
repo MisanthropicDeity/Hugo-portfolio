@@ -1,11 +1,8 @@
 ---
 title: "Contact"
 ---
+Call me at <a href = "tel:+919636548977">+91-9636548977</a>
 
-You can catch up with me at {social platforms}
+Email   : vidhujoshi31@gmail.com
 
-Email: vidhujoshi31@gmail.com
-
-email2: vjoshi_be18@thapar.edu
-
-Phone No: 9636548977
+Email2 : vjoshi_be18@thapar.edu
